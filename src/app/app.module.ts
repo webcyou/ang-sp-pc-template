@@ -1,14 +1,24 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+// PC, SP
+import { AppPCModule } from './component/pc/app.pc.module';
+import { AppSPModule } from './component/sp/app.sp.module';
+
 import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppPCModule,
+    AppSPModule
+  ],
+  exports: [
+    AppPCModule,
+    AppSPModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,27 +1,39 @@
-# AngSpPcTemplate
+# Angular 4 PC & SP Starter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
+A minimal Angular 4 starter for PC & SP site using TypeScript and Webpack
 
-## Development server
+## 参考記事
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[参考記事](http://www.webcyou.com/?p=8234)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
+
+```$xslt
+$ git clone git@github.com:webcyou/ang-sp-pc-template.git
+
+$ cd ang-sp-pc-template
+
+$ npm install
+```
+
+## Serve
+
+```$xslt
+$ npm start
+```
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+```$xslt
+$ npm run build
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**Daisuke Takayama**
+* [@webcyou](https://twitter.com/webcyou)
+* [@panicdragon](https://twitter.com/panicdragon)
+* <https://github.com/webcyou>
+* <https://github.com/panicdragon>
+* <http://www.webcyou.com/>

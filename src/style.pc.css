@@ -1,0 +1,314 @@
+@charset "UTF-8";
+:host /deep/ {
+  /*
+ * Base Variables
+*/
+  /*
+ * Font Variables
+*/
+  /*
+ * Layout Variables
+*/
+  /*
+ * Mixin Style
+*/
+  /*
+ * Reset Style
+*/
+  /*
+ * Base Style
+*/
+  /***
+ ** Atomic Parts Contents
+  - Bg Style
+  - Header Style
+  - Footer Style
+  - Paragraph style
+  - Title Style
+  - Navigation & Menu Style
+  - Button Style
+  - Box Style
+  - List Style
+  - Table Style
+  - Modal Style
+  - Form Style
+  - Separate Style
+  - Animation Style
+  - Media Queries Style
+ **
+***/
+  /* Base Style
+-------------------------------------------------- */
+  /*
+ * Base Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Paragraph style
+-------------------------------------------------- */
+  /*
+ * Paragraph Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Title Style
+-------------------------------------------------- */
+  /*
+ * Title Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Navigation & Menu Style
+-------------------------------------------------- */
+  /*
+ * Navigation Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Button Style
+-------------------------------------------------- */
+  /*
+ * Button Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Box Style
+-------------------------------------------------- */
+  /*
+ * Box Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* List Style
+-------------------------------------------------- */
+  /*
+ * List Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Table Style
+-------------------------------------------------- */
+  /*
+ * Table Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Icon Style
+-------------------------------------------------- */
+  /*
+ * Icon Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Modal Style
+-------------------------------------------------- */
+  /*
+ * ModalWindow Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Separate Style
+-------------------------------------------------- */
+  /*
+ * Separate Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Form Style
+-------------------------------------------------- */
+  /*
+ * Form Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /*
+ * Checkbox Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /*
+ * Input Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /*
+ * Select Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Bg Style
+-------------------------------------------------- */
+  /*
+ * BackGround Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Header Style
+-------------------------------------------------- */
+  /*
+ * Header Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Footer Style
+-------------------------------------------------- */
+  /*
+ * Footer Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Animation Style
+-------------------------------------------------- */
+  /*
+ * Animation Style
+*/
+  /* Atomic */
+  /* Module */
+  /* Skin */
+  /* Number */
+  /* State */
+  /* Other */
+  /* Media Queries Style
+-------------------------------------------------- */
+  /*
+ * MediaQueries Style
+*/
+  /*
+ * Index Page Style
+*/ }
+  :host /deep/ html, :host /deep/ body, :host /deep/ div, :host /deep/ span, :host /deep/ object, :host /deep/ iframe, :host /deep/ h1, :host /deep/ h2, :host /deep/ h3, :host /deep/ h4, :host /deep/ h5, :host /deep/ h6, :host /deep/ p, :host /deep/ pre, :host /deep/ abbr, :host /deep/ address, :host /deep/ cite, :host /deep/ code, :host /deep/ del, :host /deep/ dfn, :host /deep/ em, :host /deep/ img, :host /deep/ ins, :host /deep/ kbd, :host /deep/ q, :host /deep/ samp, :host /deep/ small, :host /deep/ strike, :host /deep/ strong, :host /deep/ sup, :host /deep/ tt, :host /deep/ var, :host /deep/ b, :host /deep/ u, :host /deep/ i, :host /deep/ center, :host /deep/ dl, :host /deep/ dt, :host /deep/ dd, :host /deep/ ol, :host /deep/ ul, :host /deep/ li, :host /deep/ fieldset, :host /deep/ form, :host /deep/ label, :host /deep/ legend, :host /deep/ table, :host /deep/ caption, :host /deep/ tbody, :host /deep/ tfoot, :host /deep/ thead, :host /deep/ tr, :host /deep/ th, :host /deep/ td, :host /deep/ article, :host /deep/ aside, :host /deep/ canvas, :host /deep/ details, :host /deep/ embed, :host /deep/ figure, :host /deep/ figcaption, :host /deep/ footer, :host /deep/ header, :host /deep/ menu, :host /deep/ nav, :host /deep/ output, :host /deep/ ruby, :host /deep/ section, :host /deep/ summary, :host /deep/ time, :host /deep/ mark, :host /deep/ audio, :host /deep/ video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent; }
+  :host /deep/ body {
+    line-height: 1; }
+  :host /deep/ article, :host /deep/ aside, :host /deep/ details, :host /deep/ figcaption, :host /deep/ figure, :host /deep/ footer, :host /deep/ header, :host /deep/ menu, :host /deep/ nav, :host /deep/ section {
+    display: block; }
+  :host /deep/ ol, :host /deep/ ul {
+    list-style: none; }
+  :host /deep/ blockquote, :host /deep/ q {
+    quotes: none; }
+  :host /deep/ blockquote:before, :host /deep/ blockquote:after,
+  :host /deep/ q:before, :host /deep/ q:after {
+    content: '';
+    content: none; }
+  :host /deep/ table {
+    border-collapse: collapse;
+    border-spacing: 0; }
+  :host /deep/ a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent; }
+  :host /deep/ table {
+    border-collapse: collapse;
+    border-spacing: 0; }
+  :host /deep/ em, :host /deep/ b {
+    font-style: normal; }
+  :host /deep/ img {
+    vertical-align: top; }
+  :host /deep/ hr {
+    display: block;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0; }
+  :host /deep/ input, :host /deep/ select {
+    vertical-align: middle; }
+  :host /deep/ button {
+    appearance: none;
+    border: none;
+    background: none;
+    line-height: 1;
+    font-size: 14px; }
+  :host /deep/ input[type="checkbox"],
+  :host /deep/ input[type="radio"],
+  :host /deep/ select {
+    appearance: none;
+    outline: none; }
+  :host /deep/ html,
+  :host /deep/ body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: Helvetica Neue, Arial, sans-serif, "Hiragino Kaku Gothic Pro", "メイリオ"; }
+  :host /deep/ p {
+    font-size: 40px; }
